@@ -1,0 +1,12 @@
+.error{
+    color: crimson;
+}
+.success{
+    color: #63ca7f;
+}
+
+a.btn-success,.btn-success{
+    color:white!important;
+    background-color: #63ca7f;
+    border-color: #63ca7f;
+}

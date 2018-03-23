@@ -1,0 +1,22 @@
+#about h1,#about h3 {
+    color: #0a4e99;
+}
+#about h3 {
+    margin-bottom: 5px
+}
+
+#about ._feat strong {
+    display: inline-block;
+    font-size: 150%;
+    float:left;
+}
+#about ._feat .features {
+    display: inline-block;
+    border-left: 3px solid #0a4e99;
+    margin-left: 10px
+}
+
+#about ._feat .features li {
+    padding-left: 10px
+}
+

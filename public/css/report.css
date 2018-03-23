@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+    max-width: 100%;
+    margin: 50px auto;
+    border-left: 1px solid #f4f4f4;
+    border-right: 1px solid #f4f4f4;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table>thead>tr>th, 
+table>tbody>tr>th, 
+table>tfoot>tr>th, 
+table>thead>tr>td, 
+table>tbody>tr>td, 
+table>tfoot>tr>td {
+    border-top: 1px solid #f4f4f4;
+    padding: 3px 2px;
+}
+
+.text-right {
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
